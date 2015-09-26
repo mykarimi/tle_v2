@@ -1,4 +1,4 @@
-# Termlayer extractor version 2.0
+# Termlayer Extractor version 2.0
 
 
 - Author: M. Yassine Karimi
