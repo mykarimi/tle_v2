@@ -6,6 +6,10 @@ Date: September the 27th,2015
 Project BiographyNet: "Time Will Tell A Different Story" 
 @VU University Amsterdam
 
+
+Termlayer extractor v2.0
+Author: M.Y. Karimi
+
 Requirements:
 
 - OS X or Linux OS (UbuntuGNOME v14.02 for example) installed
