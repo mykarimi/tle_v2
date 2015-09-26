@@ -7,8 +7,6 @@
 - @VU University Amsterdam:
 
 
-Termlayer extractor v2.0
-Author: M.Y. Karimi
 
 Requirements:
 
