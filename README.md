@@ -1,6 +1,6 @@
-# tle_v2
+# Termlayer extractor version 2.0
 
-- Termlayer extractor version Two point Zero
+
 - Author: M. Yassine Karimi
 - Date: September the 27th,2015 
 - Project BiographyNet: "Time Will Tell A Different Story" 
