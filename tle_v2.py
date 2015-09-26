@@ -20,8 +20,7 @@ for files in os.listdir('input/'):
 	target = open('termlayer.csv','w')
 
 	for term_obj in processed_biography.get_terms():
-    	print 
-
 		target_text = (term_obj.get_pos(), term_obj.get_lemma()) 
 		target.write(target_text.encode('utf-8'))	
+
 	target.close()
