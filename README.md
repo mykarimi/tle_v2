@@ -1,10 +1,10 @@
 # tle_v2
 
-Termlayer extractor v2.0 \n
-Author: M. Yassine Karimi \n
-Date: September the 27th,2015 
-Project BiographyNet: "Time Will Tell A Different Story" 
-@VU University Amsterdam
+Termlayer extractor v2.0:
+Author: M. Yassine Karimi:
+Date: September the 27th,2015: 
+Project BiographyNet: "Time Will Tell A Different Story": 
+@VU University Amsterdam:
 
 
 Termlayer extractor v2.0
