@@ -1,4 +1,5 @@
 # tle_v2
+
 Termlayer extractor v2.0
 Author: M. Yassine Karimi 
 Date: September the 27th,2015 
@@ -7,12 +8,13 @@ Project BiographyNet: "Time Will Tell A Different Story"
 
 Requirements:
 
-OS X or Linux OS (UbuntuGNOME v14.02 for example) installed
-Installed version of Python 2.7 or higher (script was built on v2.7)
-KafNafParser for Python (https://github.com/cltl/KafNafParserPy)
-Terminal (comes with Linux OS)
-XML v1.0 or higher
-Text editor (Sublime Text 2, gedit)
+- OS X or Linux OS (UbuntuGNOME v14.02 for example) installed
+- Installed version of Python 2.7 or higher (script was built on v2.7)
+- KafNafParser for Python (https://github.com/cltl/KafNafParserPy)
+- Terminal (comes with Linux OS)
+- XML v1.0 or higher
+- Text editor (Sublime Text 2, gedit)
+
 Commands;
 
 Download the complete github repository with the follwing command:
