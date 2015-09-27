@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+"""Author: M. Yassine Karimi"""
+"""Date: September the 9th, 2015"""
+"""Project BiographyNet: "Time Will Tell A Different Story" """
+"""VU University Amsterdam"""
 
 import os
 import sys
